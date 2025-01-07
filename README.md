@@ -30,11 +30,11 @@ Este projeto é um bot em Python que automatiza a pesquisa da cotação do dóla
 
 - Clone este repositório:
   ```bash
-  git clone https://github.com/seuusuario/nome-repositorio.git
+  git clone https://github.com/cai0duque/cambio_dolar.git
   ```
 - Navegue até o diretório do projeto:
   ```bash
-  cd nome-repositorio
+  cd cambio_dolar
   ```
 - Execute o script:
   ```bash
