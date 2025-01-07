@@ -81,7 +81,7 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ## Contribuições
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma [issue](https://github.com/seuusuario/nome-repositorio/issues) ou enviar um pull request.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma [issue](https://github.com/cai0duque/cambio_dolar/issues) ou enviar um pull request.
 
 ## Autor
 
